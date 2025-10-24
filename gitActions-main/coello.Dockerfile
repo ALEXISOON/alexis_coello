@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 3000
 
 # 7️⃣ Comando para ejecutar la app
-CMD ["node", "app.js"]
+CMD ["node", "app.js", "flask"]
